@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="400"
+   height="210"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="prtxhn_.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="211.55497"
+     inkscape:cy="71.35798"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1440"
+     inkscape:window-height="823"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3775"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="225,130"
+       id="guide3800" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="25,145"
+       id="guide3802" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="70,25"
+       id="guide3804" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="100,175"
+       id="guide3806" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-842.36218)">
+    <rect
+       style="fill:#16202e;fill-opacity:1;stroke:none"
+       id="rect2985"
+       width="400"
+       height="210"
+       x="0"
+       y="842.36218" />
+    <text
+       xml:space="preserve"
+       style="font-size:85.58211517px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+       x="17.126446"
+       y="977.36218"
+       id="text3755"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="17.126446"
+         y="977.36218"
+         id="tspan3763"
+         dx="0 0 0 6.5748415 -0.73053795 -3.6526895">PRTXHN</tspan><tspan
+         sodipodi:role="line"
+         x="17.126446"
+         y="1084.3398"
+         id="tspan3767" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:54.16174316px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+       x="25.555492"
+       y="1016.0765"
+       id="text3769"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3771"
+         x="25.555492"
+         y="1016.0765"
+         style="font-size:54.16174316px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Montserrat;-inkscape-font-specification:Montserrat" /></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3779"
+       width="350"
+       height="24.999998"
+       x="25"
+       y="867.36218" />
+    <text
+       xml:space="preserve"
+       style="font-size:62.54550552px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+       x="22.561275"
+       y="1049.4314"
+       id="text3755-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="22.561275"
+         y="1049.4314"
+         id="tspan3763-4" /><tspan
+         sodipodi:role="line"
+         x="22.561275"
+         y="1127.6133"
+         id="tspan3767-3" /></text>
+  </g>
+</svg>
