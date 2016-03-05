@@ -35,35 +35,69 @@ Dies ist ein Satz.
 ## Farben
 
 ## Text
-Register (Gosse, cool, sachlich, gehoben)
-Sprechakt (Befehl, Aufforderung, Frage, Wunsch, Feststellung)
-Adressierung (direkt, indirekt, Du, Sie, Ihr, man, wir)
-Stil (Telegrammstil, Zeitungsstil, barock, selbstironisch)
-Länge (Anzahl Wörter, Anzahl (Glied)sätze)
-Duktus (offene Frage, Konsequenz, Pranger, Andeutung, Belehrung, Quengeln)
+- Register 
+- <del>Gosse </del>
+ - cool
+ - sachlich
+ - <del>gehoben</del>
+- Sprechakt 
+ - Befehl
+ - Aufforderung
+ - Frage
+ - Wunsch
+ - Feststellung
+- Adressierung 
+ - direkt
+ - indirekt
+ - Du
+ - <del>Sie</del>
+ - Ihr
+ - <del>man</del>
+ - wir
+- Stil 
+- <del>Telegrammstil</del>
+- <del>Zeitungsstil</del>
+- <del>barock</del>
+ - selbstironisch
+ - ...
+- Länge 
+ - 1 Satz oder 2 mit Frage-Antwort-Charakter
+- Duktus 
+ - <del>offene Frage</del>
+ - rhetorische Frage
+ - Konsequenz
+ - Pranger
+ - Andeutung
+ - <del>Belehrung</del>
+ - <del>Quengeln</del>
 
 ## Logo
 - Vierzackiger Stern
 - Bär mit Piraten-Fahne
 - PRTXHN mit Oberlinie
 
-Botschaft
-Ich (bin toll)
-Wir (sind toll)
-Du (sollst uns wählen)
-Sie (sind schuld)
-Es (ist alles scheiße)
+##Botschaft
+- <del>Ich (bin toll)</del>
+- Wir sind ...
+- Du sollst ...
+- <del>Sie (sind schuld)</del>
+- Es ist so und so
 
-Elemente
-bildliche Elemente (Logos, Fotos, Zeichnungen)
-Schmuckelemente (Linien, Rahmen)
+##Elemente
+- bildliche Elemente
+ - Logos
+ - Fotos
+ - Zeichnungen
+- Schmuckelemente 
+ - Linien
+ - Rahmen
 
-Geometrie
-DINAx
-quadratisch
-Balken hoch
-Balken quer
-Margen
-Positionierung Text
-Positionierung bildliche Elemente
+##Geometrie
+- DINAx
+- quadratisch
+- Balken hoch
+- Balken quer
+- Margen
+- Positionierung Text
+- Positionierung bildliche Elemente
 
