@@ -14,8 +14,11 @@
    height="2979.9199"
    id="svg3324"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="1_Weihnachten.svg">
+   inkscape:version="0.91 r"
+   sodipodi:docname="1_Weihnachten.svg"
+   inkscape:export-filename="/home/ku3i/piraten/Gestaltung/pirat*n_xhain/prtxhn/posters/Serie_1/exprt/1_Weihnachten.png"
+   inkscape:export-xdpi="42.766251"
+   inkscape:export-ydpi="42.766251">
   <defs
      id="defs3326">
     <color-profile
@@ -31,7 +34,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.17500001"
-     inkscape:cx="2397.2492"
+     inkscape:cx="1074.3921"
      inkscape:cy="1349.1938"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -50,7 +53,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
