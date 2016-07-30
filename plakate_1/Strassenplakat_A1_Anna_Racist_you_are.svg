@@ -25,45 +25,6 @@
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:collect="always"
-       id="filter5095-5"
-       x="-0.019404594"
-       width="1.0388092"
-       y="-0.2486717"
-       height="1.4973434">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="5.4160222"
-         id="feGaussianBlur5097-5" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       inkscape:collect="always"
-       id="filter5095-5-0"
-       x="-0.019404594"
-       width="1.0388092"
-       y="-0.2486717"
-       height="1.4973434">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="5.4160222"
-         id="feGaussianBlur5097-5-4" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       inkscape:collect="always"
-       id="filter5095-5-2"
-       x="-0.019404594"
-       width="1.0388092"
-       y="-0.2486717"
-       height="1.4973434">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="5.4160222"
-         id="feGaussianBlur5097-5-5" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       inkscape:collect="always"
        id="filter4203">
       <feGaussianBlur
          inkscape:collect="always"
@@ -92,13 +53,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.12374369"
-     inkscape:cx="635.60976"
+     inkscape:cx="-402.82703"
      inkscape:cy="900.05159"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1440"
-     inkscape:window-height="823"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1" />
@@ -119,94 +80,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,1927.5591)">
-    <g
-       id="g4970"
-       transform="matrix(5.8575651,0,0,5.8575651,-34.933884,-5962.4046)">
-      <g
-         transform="matrix(0.30365738,0,0,0.30365738,61.024362,740.37729)"
-         id="g4322-1">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80.79405212px;line-height:125%;font-family:'Politics Head';-inkscape-font-specification:'Politics Head';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter5095-5)"
-           x="28.526592"
-           y="696.40613"
-           id="text5006-8"
-           sodipodi:linespacing="125%"><tspan
-             style="font-size:124.6714859px"
-             sodipodi:role="line"
-             id="tspan5008-14"
-             x="28.526592"
-             y="696.40613">NIEMAND</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80.79405212px;line-height:125%;font-family:'Politics Head';-inkscape-font-specification:'Politics Head';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-           x="21.621456"
-           y="685.93524"
-           id="text5006-0-1"
-           sodipodi:linespacing="125%"><tspan
-             style="font-size:124.6714859px"
-             sodipodi:role="line"
-             id="tspan5008-1-8"
-             x="21.621456"
-             y="685.93524">NIEMAND </tspan></text>
-      </g>
-      <g
-         transform="matrix(0.1900038,0,0,0.1900038,105.32436,848.98143)"
-         id="g4322-1-0">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80.79405212px;line-height:125%;font-family:'Politics Head';-inkscape-font-specification:'Politics Head';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter5095-5-0)"
-           x="28.526592"
-           y="696.40613"
-           id="text5006-8-9"
-           sodipodi:linespacing="125%"><tspan
-             style="font-size:124.6714859px"
-             sodipodi:role="line"
-             id="tspan5008-14-1"
-             x="28.526592"
-             y="696.40613">ist</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80.79405212px;line-height:125%;font-family:'Politics Head';-inkscape-font-specification:'Politics Head';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-           x="21.621456"
-           y="685.93524"
-           id="text5006-0-1-9"
-           sodipodi:linespacing="125%"><tspan
-             style="font-size:124.6714859px"
-             sodipodi:role="line"
-             id="tspan5008-1-8-6"
-             x="21.621456"
-             y="685.93524">ist</tspan></text>
-      </g>
-      <g
-         transform="matrix(0.30365738,0,0,0.30365738,142.35358,774.2776)"
-         id="g4322-1-4">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80.79405212px;line-height:125%;font-family:'Politics Head';-inkscape-font-specification:'Politics Head';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter5095-5-2)"
-           x="28.526592"
-           y="696.40613"
-           id="text5006-8-4"
-           sodipodi:linespacing="125%"><tspan
-             style="font-size:124.6714859px"
-             sodipodi:role="line"
-             id="tspan5008-14-9"
-             x="28.526592"
-             y="696.40613">Normal.</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80.79405212px;line-height:125%;font-family:'Politics Head';-inkscape-font-specification:'Politics Head';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-           x="21.621456"
-           y="685.93524"
-           id="text5006-0-1-93"
-           sodipodi:linespacing="125%"><tspan
-             style="font-size:124.6714859px"
-             sodipodi:role="line"
-             id="tspan5008-1-8-60"
-             x="21.621456"
-             y="685.93524">NormaL.</tspan></text>
-      </g>
-    </g>
     <image
        y="-1927.5591"
        x="-209.28015"
