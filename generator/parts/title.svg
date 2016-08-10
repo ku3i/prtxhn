@@ -1,0 +1,33 @@
+  <defs
+     id="defs4972">
+    <filter
+       height="1.10107"
+       y="-0.050535025"
+       width="1.0314737"
+       x="-0.01573686"
+       id="filter5552"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur5554"
+         stdDeviation="1.6776123" />
+    </filter>
+  </defs>
+  <g
+     transform="translate({TITLE_POSX},{TITLE_POSY}) scale({TITLE_SIZE})"
+     id="layer1">
+    <g
+       id="g5556">
+      <text
+         xml:space="preserve"
+         style="text-anchor:middle;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:125%;font-family:'Politics Head';word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter5552)"
+         x="3"
+         y="5"
+         id="text5518"><tspan>{TITLE_TEXT}</tspan></text>
+      <text
+         xml:space="preserve"
+         style="text-anchor:middle;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:125%;font-family:'Politics Head';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="0"
+         y="0"
+         id="text5518-3"><tspan>{TITLE_TEXT}</tspan></text>
+    </g>
+  </g>
