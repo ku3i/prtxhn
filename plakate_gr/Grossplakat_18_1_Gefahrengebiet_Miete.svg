@@ -72,15 +72,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.15349816"
-     inkscape:cx="789.13498"
-     inkscape:cy="844.58483"
+     inkscape:zoom="0.10853959"
+     inkscape:cx="98.673894"
+     inkscape:cy="133.91595"
      inkscape:current-layer="layer1"
      id="namedview4291"
      showgrid="false"
      units="mm"
-     inkscape:window-width="1920"
-     inkscape:window-height="1005"
+     inkscape:window-width="1440"
+     inkscape:window-height="823"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -94,7 +94,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -365,7 +365,7 @@
     </g>
     <g
        id="g4322"
-       transform="matrix(2.596905,0,0,2.596905,1168.5165,-2437.3747)">
+       transform="matrix(2.2635603,0,0,2.2635603,1368.167,-2209.9283)">
       <text
          sodipodi:linespacing="125%"
          id="text5006"
@@ -511,7 +511,7 @@
     </g>
     <g
        id="g4322-1"
-       transform="matrix(5.4272479,0,0,5.4272479,1372.0288,-4006.4968)">
+       transform="matrix(5.0951955,0,0,5.0951955,1605.2526,-3843.3706)">
       <text
          sodipodi:linespacing="125%"
          id="text5006-2"
