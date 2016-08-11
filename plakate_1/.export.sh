@@ -36,5 +36,5 @@ done
 
 popd
 
-
+#find /tmp -name '*.pdf' -or -name '*.doc'
 #tar -cZf /var/my-backup.tgz /home/me/
