@@ -1,0 +1,25 @@
+{ "BACKGROUND_COLOR"   : "#ffffff"
+, "BACKGROUND_IMAGE"   : "./backgrounds/wooden.jpg"
+, "BACKGROUND_OPACITY" : "1.0"
+, "PRTXHN_COLOR"       : "#ffffff"
+, "textblocks"         :
+[
+    { "TITLE_POSX"         : "512"
+    , "TITLE_POSY"         : "400"
+    , "TITLE_SIZE"         : "1.5"
+    , "TITLE_TEXT"         : "Die Mieten"
+    }
+    ,
+    { "TITLE_POSX"         : "512"
+    , "TITLE_POSY"         : "520"
+    , "TITLE_SIZE"         : "1.0"
+    , "TITLE_TEXT"         : "sind immernoch"
+    }
+    ,
+    { "TITLE_POSX"         : "512"
+    , "TITLE_POSY"         : "650"
+    , "TITLE_SIZE"         : "1.5"
+    , "TITLE_TEXT"         : "zu hoch!"
+    }
+]
+}

@@ -1,0 +1,19 @@
+{ "BACKGROUND_COLOR"   : "#ffffff"
+, "BACKGROUND_IMAGE"   : "./backgrounds/metal.jpg"
+, "BACKGROUND_OPACITY" : "1.0"
+, "PRTXHN_COLOR"       : "#ffffff"
+, "textblocks"         :
+[
+    { "TITLE_POSX"         : "512"
+    , "TITLE_POSY"         : "450"
+    , "TITLE_SIZE"         : "2.0"
+    , "TITLE_TEXT"         : "Henkel"
+    }
+    ,
+    { "TITLE_POSX"         : "512"
+    , "TITLE_POSY"         : "620"
+    , "TITLE_SIZE"         : "2.0"
+    , "TITLE_TEXT"         : "räumen."
+    }
+]
+}
