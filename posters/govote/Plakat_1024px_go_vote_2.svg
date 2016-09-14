@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.91 r"
    sodipodi:docname="Plakat_1024px_go_vote_2.svg"
-   inkscape:export-filename="/home/ku3i/work/piraten/prtxhn/plakate_eu/exprt/Plakate_1024px_go_vote_2.png"
+   inkscape:export-filename="/home/matthias/prtxhn/posters/govote/exprt/Plakate_1024px_go_vote_2.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -120,17 +120,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.52643472"
-     inkscape:cx="178.69173"
-     inkscape:cy="234.35962"
+     inkscape:zoom="1.0528694"
+     inkscape:cx="10.70617"
+     inkscape:cy="241.49863"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      width="1024px"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1005"
+     inkscape:window-width="1680"
+     inkscape:window-height="998"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -143,7 +143,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -535,7 +535,7 @@
     </g>
     <g
        id="g4322-9-2-9"
-       transform="matrix(0.64435319,0,0,0.64435319,39.729863,472.41346)">
+       transform="matrix(0.64435319,0,0,0.64435319,33.729863,472.41346)">
       <text
          sodipodi:linespacing="125%"
          id="text5006-1-3-6"
@@ -546,7 +546,7 @@
            y="696.40613"
            x="28.526592"
            id="tspan5008-9-4-6"
-           sodipodi:role="line">actually, You can  vote for us.</tspan><tspan
+           sodipodi:role="line">Good news: You can  vote f0r Us.</tspan><tspan
            y="797.39868"
            x="28.526592"
            sodipodi:role="line"
@@ -561,7 +561,7 @@
            y="685.93524"
            x="21.621456"
            id="tspan5008-1-0-2-1"
-           sodipodi:role="line">actually, You can  vote f0r Us.</tspan><tspan
+           sodipodi:role="line">Good news: You can  vote f0r Us.</tspan><tspan
            y="786.9278"
            x="21.621456"
            sodipodi:role="line"
